@@ -26,3 +26,7 @@ makeCacheMatrix <- function(x = matrix()) {
     x$setinverse(inv)
     inv
   }
+
+  
+  
+  
